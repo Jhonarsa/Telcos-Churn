@@ -3,6 +3,7 @@ Customer Churn Prediction – Telecom Industry
 This project aims to predict customer churn in the telecom sector using data science and machine learning techniques. The analysis provides actionable insights to improve customer experience, reduce churn, and support retention strategies.
 
 📂 Project Structure
+
 ├── 01-Project Management/    # Brief Project   
 ├── 02-Data/                  # Raw datasets   
 ├── 03-Script/                # Jupyter Notebooks with analysis and modeling
